@@ -8,7 +8,7 @@
 
 definePageMeta({
   layout:'guest',
-  middleware: 'guest'
+  middleware: ['guest']
 })
 
 </script>

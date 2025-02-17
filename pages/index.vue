@@ -1,6 +1,8 @@
 <template>
   <div>
-    
+      Preciso estar autenticado
+      oi Piazada do Youtubill!!
+      De dentro do pages
   </div>
 </template>
 
